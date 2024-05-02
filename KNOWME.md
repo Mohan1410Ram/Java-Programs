@@ -1,1 +1,5 @@
-java program to check whether given integer is prime or not
+👋 Hi, I’m @Mohan1410Ram
+👀 I’m interested in AI.
+🌱 I’m currently learning c++.python.
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
