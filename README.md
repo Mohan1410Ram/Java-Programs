@@ -1,1 +1,1 @@
-java program to check given number is prime number or not
+This repository contains simple java programs implementing different concepts..
